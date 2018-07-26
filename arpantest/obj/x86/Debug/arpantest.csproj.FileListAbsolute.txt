@@ -1,0 +1,7 @@
+F:\ziroh\learningRepo\learningrepo\arpantest\bin\Debug\arpantest.exe.config
+F:\ziroh\learningRepo\learningrepo\arpantest\bin\Debug\arpantest.exe
+F:\ziroh\learningRepo\learningrepo\arpantest\bin\Debug\arpantest.pdb
+F:\ziroh\learningRepo\learningrepo\arpantest\obj\x86\Debug\arpantest.csprojResolveAssemblyReference.cache
+F:\ziroh\learningRepo\learningrepo\arpantest\obj\x86\Debug\arpantest.csproj.CoreCompileInputs.cache
+F:\ziroh\learningRepo\learningrepo\arpantest\obj\x86\Debug\arpantest.exe
+F:\ziroh\learningRepo\learningrepo\arpantest\obj\x86\Debug\arpantest.pdb
